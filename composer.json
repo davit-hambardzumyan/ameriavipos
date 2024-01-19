@@ -12,12 +12,12 @@
     "Ameria",
     "purchase"
   ],
-  "homepage": "https://github.com/sarsam/omnipay-ameria",
+  "homepage": "https://github.com/davit-hambardzumyan/ameriavipos",
   "license": "MIT",
   "authors": [
     {
-      "name": "Samvel Sargsyan",
-      "email": "sarsamvel1993@gmail.com"
+      "name": "Davit Hambardzumyan",
+      "email": "davo951951951@gmail.com"
     }
   ],
   "autoload": {
