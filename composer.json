@@ -2,7 +2,6 @@
   "name": "davit-hambardzumyan/ameriavipos",
   "type": "library",
   "description": "AmeriaBank gateway for Omnipay payment processing library",
-  "minimum-stability": "dev",
   "keywords": [
     "gateway",
     "merchant",
