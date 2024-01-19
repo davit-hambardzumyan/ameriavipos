@@ -11,6 +11,8 @@
     "Ameria",
     "purchase"
   ],
+  "prefer-stable": true,
+  "minimum-stability": "dev",
   "homepage": "https://github.com/davit-hambardzumyan/ameriavipos",
   "license": "MIT",
   "authors": [
